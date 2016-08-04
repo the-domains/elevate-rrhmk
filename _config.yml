@@ -1,4 +1,3 @@
-layout_spectrum: 0.7882264549843967
 typography_spectrum: 0.8749370046425611
 color:
   brandStrength: 0.09127718606032431
@@ -11,5 +10,10 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.7882264549843967
 name: Elevate
+navigation:
+  - name: Magic Leap
+    id: 9c30a88a-f3f0-47c7-9e90-abc66fdcf217
+    type: content
 title: Hi Elevate
