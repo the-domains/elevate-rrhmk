@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-04T00:18:08.232Z'
+datePublished: '2016-08-04T00:46:40.390Z'
 sourcePath: >-
   _posts/2016-04-20-the-untold-story-of-magic-leap-the-worlds-most-secretive-s.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wired.com/2016/04/magic-leap-vr/?utm_content=buffer05f4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-hasPage: false
+hasPage: true
 keywords:
   - virtual
   - magic
@@ -19,7 +17,7 @@ keywords:
   - mixed-reality
 related: []
 author: []
-dateModified: '2016-08-04T00:18:07.394Z'
+dateModified: '2016-08-04T00:46:39.639Z'
 title: 'The Untold Story of Magic Leap, the World''s Most Secretive Startup'
 app_links: []
 publisher:
@@ -37,6 +35,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: the-untold-story-of-magic-leap-the-worlds-most-secretive-s/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
