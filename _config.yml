@@ -1,0 +1,14 @@
+layout_spectrum: 0.7882264549843967
+typography_spectrum: 0.8749370046425611
+color:
+  brandStrength: 0.09127718606032431
+  lightness: 0.7093189852312207
+  saturation: 0.7908222638070583
+  rhythmicContrast: 0.6303550957236439
+  brandColors:
+    - '#101115'
+    - '#FFFFFF'
+    - '#CD2C78'
+    - '#FBD45D'
+    - '#F4963E'
+name: Elevate
