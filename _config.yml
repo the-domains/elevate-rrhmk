@@ -16,4 +16,7 @@ navigation:
   - name: Magic Leap
     id: 9c30a88a-f3f0-47c7-9e90-abc66fdcf217
     type: content
+  - name: Adweek
+    url: adweek.com
+    type: external
 title: Hi Elevate
